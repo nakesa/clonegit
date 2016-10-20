@@ -1,0 +1,2 @@
+# clonegit
+clone a git
